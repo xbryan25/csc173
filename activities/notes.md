@@ -16,7 +16,7 @@ How many photos, and what each shows (one line each):
 - Categories: Plate vs. Mug
 - Photos per category: 20 and 22
 - How I took them (places, backgrounds, lighting, angles): inside and outside my house, with varying locations, backgrounds, and orientations.
-- Final validation accuracy: transfer … · from scratch …
+- Final validation accuracy: transfer 1.00 · from scratch 0.60
 
 ## My kernel (Part 2c)
 The numbers, and what it detects:
